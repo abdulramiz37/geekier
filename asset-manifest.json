@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geekier/static/css/main.82b33559.css",
+    "main.js": "/geekier/static/js/main.c4e90fb4.js",
+    "index.html": "/geekier/index.html",
+    "main.82b33559.css.map": "/geekier/static/css/main.82b33559.css.map",
+    "main.c4e90fb4.js.map": "/geekier/static/js/main.c4e90fb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b33559.css",
+    "static/js/main.c4e90fb4.js"
+  ]
+}
